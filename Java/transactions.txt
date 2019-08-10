@@ -1,0 +1,15 @@
+1 260120191157, 1111, "Top Secret Twenty One - Janet Evanovich", $8.99, 1, 0%, $8.99, 01/26/2019, 11:57:16 AM EST
+2 260120191157, 22222, "W Is For Wasted - Sue Grafton", $9.95, 2, 0%, $19.9, 01/26/2019, 11:57:36 AM EST
+3 260120191157, 234, "The Bourne Identity - Robert Ludlum", $12.95, 2, 0%, $25.9, 01/26/2019, 11:57:36 AM EST
+4 260120191159, 11112, "The Guilty - David Baldacci", $14.95, 5, 10%, $67.27, 01/26/2019, 11:59:03 AM EST
+5 260120191159, 12123, "X - Sue Grafton", $9.99, 12, 15%, $101.9, 01/26/2019, 11:59:24 AM EST
+6 260120191200, 12277, "Y Is For Yesterday - Sue Grafton", $10.99, 20, 20%, $175.84, 01/26/2019, 12:00:42 PM EST
+7 260120191200, 89238, "The Reckoning - John Grisham", $14.99, 4, 0%, $59.96, 01/26/2019, 12:00:42 PM EST
+8 260120191200, 67534, "The Black Book - James Patterson", $15.99, 9, 10%, $129.52, 01/26/2019, 12:00:42 PM EST
+9 260120191201, 23456, "14th Deadly Sin - James Patterson", $14.95, 1, 0%, $14.95, 01/26/2019, 12:01:46 PM EST
+10 260120191209, 22222, "W Is For Wasted - Sue Grafton", $9.95, 1, 0%, $9.95, 01/26/2019, 12:08:35 PM EST
+11 260120191209, 99999, "Rogue Lawyer - John Grisham", $15.95, 2, 0%, $31.9, 01/26/2019, 12:08:35 PM EST
+12 260120191209, 11234, "Tricky Twenty-Two - Janet Evanovich", $12.95, 1, 0%, $12.95, 01/26/2019, 12:08:35 PM EST
+13 260120191213, 1111, "Top Secret Twenty One - Janet Evanovich", $8.99, 1, 0%, $8.99, 01/26/2019, 12:13:41 PM EST
+14 260120191213, 22222, "W Is For Wasted - Sue Grafton", $9.95, 2, 0%, $19.9, 01/26/2019, 12:13:41 PM EST
+15 260120191213, 234, "The Bourne Identity - Robert Ludlum", $12.95, 3, 0%, $38.85, 01/26/2019, 12:13:41 PM EST
